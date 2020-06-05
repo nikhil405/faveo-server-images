@@ -1,6 +1,6 @@
 <html>
 <head>Jenkins configure</head>
 <body>
-<h1> Welcome to ladybird websolution</h1>
+<h1> Welcome to ladybird websolutions</h1>
 </body>
 </html>
